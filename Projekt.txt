@@ -7,7 +7,7 @@ Wykorzystane biblioteki:
 - matoplotplusplus (c++)
 - libsndfile (c++)
 
-Wykorzystany przez nas plik dźwiękowy to ahe_x.wav
+Wykorzystany przez nas plik dźwiękowy to ahem_x.wav
 W plikach .jpg prezentujemy wykresy po analizie pliku dźwiękowego otrzymane z matplota oraz wykresy sygnałów o zadanej częstotliwości (sin, cos, prostokątny, piłokształtny).
 
 
